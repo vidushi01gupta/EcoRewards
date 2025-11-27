@@ -79,12 +79,13 @@
   margin-top: 50px;
   margin-bottom: 0px;
   padding: 10px 0;
-  background: #97f1a9;
+  background: #067c1e;
   text-align: center;
-  color: #0e0000;
+  color: #f3eeee;
   border-top: 1px solid #3a5c4b;
   font-family: 'Inter', sans-serif;
   position:relative;
+  font-size: larger;
 }
 
 
